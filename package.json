@@ -1,0 +1,8 @@
+{
+  "name": "FullCycle-Imsersao_07-14_02_kafka-connect-twitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/efillipi/FullCycle-Imsersao_07-14_02_kafka-connect-twitter.git",
+  "author": "efillipi <e.fillipi@gmail.com>",
+  "license": "MIT"
+}
